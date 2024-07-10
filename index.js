@@ -86,4 +86,4 @@ document.addEventListener('DOMContentLoaded', function() {
     clearListBtn.addEventListener('click', function() {
         itemList.innerHTML = ''; // Clear all list items//
     });
-});
+}); 
